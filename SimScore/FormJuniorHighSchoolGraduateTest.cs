@@ -135,7 +135,7 @@ namespace SimScore
 
             label4.Visible = true;
 
-            //清楚成绩
+            //清除成绩
             label28.Visible = false;
             label29.Visible = false;
             label8.Visible = false;
