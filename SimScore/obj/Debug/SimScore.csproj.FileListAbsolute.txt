@@ -1,0 +1,10 @@
+D:\Projects\C#\SimScore\SimScore\bin\Debug\SimScore.exe.config
+D:\Projects\C#\SimScore\SimScore\bin\Debug\SimScore.exe
+D:\Projects\C#\SimScore\SimScore\bin\Debug\SimScore.pdb
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.csprojAssemblyReference.cache
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.FormJuniorHighSchoolGraduateTest.resources
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.FormSeniorHighSchoolAdd3Test.resources
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.csproj.GenerateResource.cache
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.csproj.CoreCompileInputs.cache
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.exe
+D:\Projects\C#\SimScore\SimScore\obj\Debug\SimScore.pdb
