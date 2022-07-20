@@ -1,6 +1,7 @@
 # SimScore
-上海教育考试院成绩查询模拟器
-This is a simulator for inquiring academic performance at ShangHai Municipal Educational Examinations Authority.
 
-## Screenshot
-![](https://raw.githubusercontent.com/bac0id/SimScore/master/screenshot1.png)
+上海教育考试院成绩查询**模拟器**
+
+A **simulator** that simulates some one inquiring his adademic performance at (ShangHai Municipal Educational Examinations Authority)[https://www.shmeea.edu.cn/].
+
+![screenshot](screenshot1.png)
