@@ -65,19 +65,19 @@
     <Compile Include="FormJuniorHighSchoolGraduateTest.Designer.cs">
       <DependentUpon>FormJuniorHighSchoolGraduateTest.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormSeniorHighSchool+3Test.cs">
+    <Compile Include="FormSeniorHighSchoolAdd3Test.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormSeniorHighSchool+3Test.Designer.cs">
-      <DependentUpon>FormSeniorHighSchool+3Test.cs</DependentUpon>
+    <Compile Include="FormSeniorHighSchoolAdd3Test.Designer.cs">
+      <DependentUpon>FormSeniorHighSchoolAdd3Test.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormJuniorHighSchoolGraduateTest.resx">
       <DependentUpon>FormJuniorHighSchoolGraduateTest.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormSeniorHighSchool+3Test.resx">
-      <DependentUpon>FormSeniorHighSchool+3Test.cs</DependentUpon>
+    <EmbeddedResource Include="FormSeniorHighSchoolAdd3Test.resx">
+      <DependentUpon>FormSeniorHighSchoolAdd3Test.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

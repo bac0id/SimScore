@@ -10,7 +10,8 @@ namespace SimScore {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormJuniorHighSchoolGraduateTest());
+            //Application.Run(new FormJuniorHighSchoolGraduateTest());
+            Application.Run(new FormSeniorHighSchoolAdd3Test());
         }
     }
 }
